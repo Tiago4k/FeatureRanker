@@ -1,2 +1,4 @@
 # FeatureRanker
-Malware Feature Ranker
+Simple Python implementation of a feature selection alogrithm for Malware Analysis. 
+
+
